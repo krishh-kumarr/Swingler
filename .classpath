@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/mysql-connector-j-9.0.0 2/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/batik-1.17/batik-rasterizer-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/batik-1.17/batik-slideshow-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/batik-1.17/batik-squiggle-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/batik-1.17/batik-svgpp-1.17.jar"/>
+	<classpathentry kind="lib" path="/Users/krishkumar/Downloads/batik-1.17/batik-ttf2svg-1.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
